@@ -29,10 +29,30 @@ Although, all the features are not used, but using this simple practice its easy
 
 2. Python Plotly(https://plotly.com/python/):
     Data taken from https://data.world/data-society/global-health-nutrition-data
+    Complete Visualization available here: https://akashverma5.wixsite.com/mysite
+    Code: https://github.com/verakash21/DataVisualization/tree/master/graphs
   
   2.1 Sunburst Chart
     
     It represents Two-dimensional table with Multiple categorical key attributes (Sex, Age, Income group) and one quantitative value (Mortality rate per 1000).
 
 ![alt text](https://github.com/verakash21/DataVisualization/blob/master/graphs/Sunburst.PNG)
+  
+  2.2 Scatter Plot
+    
+    It represents Two-dimensional table with two categorical key attributes (Year & Income group) and two quantitative value (Life Expectancy at Birth and Health expenditure). 
 
+![alt text](https://github.com/verakash21/DataVisualization/blob/master/graphs/ScatterPlot.PNG)
+
+  
+  2.3 WorldMap Chart
+    
+    Geographic geometry data. Table with multiple categorical key attributes and their respective quantitative value per region.
+    
+![alt text](https://github.com/verakash21/DataVisualization/blob/master/graphs/Map.PNG)
+  
+  2.3 Stackbar Chart
+    
+    It represents Two-dimensional table with two categorical key attributes (Sex & Income group) and one quantitative value (Percentage of Population).
+    
+![alt text](https://github.com/verakash21/DataVisualization/blob/master/graphs/StackBar.PNG)
