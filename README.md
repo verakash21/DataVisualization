@@ -29,7 +29,9 @@ Although, all the features are not used, but using this simple practice its easy
 
 2. Python Plotly(https://plotly.com/python/):
     Data taken from https://data.world/data-society/global-health-nutrition-data
+    
     Complete Visualization available here: https://akashverma5.wixsite.com/mysite
+    
     Code: https://github.com/verakash21/DataVisualization/tree/master/graphs
   
   2.1 Sunburst Chart
