@@ -28,11 +28,11 @@ Although, all the features are not used, but using this simple practice its easy
 
 
 2. Python Plotly(https://plotly.com/python/):
-Data taken from https://data.world/data-society/global-health-nutrition-data
+    Data taken from https://data.world/data-society/global-health-nutrition-data
   
   2.1 Sunburst Chart
     
     It represents Two-dimensional table with Multiple categorical key attributes (Sex, Age, Income group) and one quantitative value (Mortality rate per 1000).
 
-![alt text](https://github.com/verakash21/DataVisualization/blob/master/mortality.html)
+https://github.com/verakash21/DataVisualization/blob/master/mortality.html
 
