@@ -34,4 +34,4 @@ Although, all the features are not used, but using this simple practice its easy
     features and animations which were out of scope for this project.
     Finally, as a task of this assignment, there is another coxcomb chart that shows similar data and
     focuses on the concepts of transformation, zooming, repositioning and rotation.
-![alt text](https://github.com/verakash21/DataVisualization/blob/master/coxcomb.pdf)
+![alt text](https://github.com/verakash21/DataVisualization/blob/master/Nightingale_Rose_Chart/nightingale_rose_chart.PNG)
