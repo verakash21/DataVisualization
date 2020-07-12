@@ -34,5 +34,5 @@ Although, all the features are not used, but using this simple practice its easy
     
     It represents Two-dimensional table with Multiple categorical key attributes (Sex, Age, Income group) and one quantitative value (Mortality rate per 1000).
 
-https://github.com/verakash21/DataVisualization/blob/master/mortality.html
+![alt text](https://github.com/verakash21/DataVisualization/blob/master/graphs/Sunburst.PNG)
 
